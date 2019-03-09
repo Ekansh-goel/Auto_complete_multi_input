@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">auto_complete_multi</string>
+    <string-array name="names">
+        <item>raman</item>
+        <item>ramaneet</item>
+        <item>raneet</item>
+        <item>ranjeet</item>
+        <item>rajesh</item>
+        <item>rohan</item>
+    </string-array>
+</resources>
